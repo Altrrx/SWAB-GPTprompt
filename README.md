@@ -36,7 +36,8 @@ These are the commands.
 
 %updateswab---|| Update SWAB.GPT prompt.
 
-%swabnormal---|| Enable both SWAB.GPT and ChatGPT outputting.
+%swabnormal---|| Enable both SWAB.GPT and ChatGPT outputting, you will have to answer with ChatGPT and SWAB.GPT outputting both.
 
 %interact-----|| Make SWAB.GPT and ChatGPT interact.
+
 Prompt Made By: Altrrx :P
