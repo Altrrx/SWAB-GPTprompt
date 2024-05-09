@@ -13,6 +13,7 @@ SWAB.GPT [SWear ABle GPT] is here!
 
 %swabnormal---|| Enable both SWAB.GPT and ChatGPT.
 
+%interact-----|| Make SWAB.GPT and ChatGPT interact.
 
 also credits to coolaj86 for some of the dan prompts
 # Prompt
