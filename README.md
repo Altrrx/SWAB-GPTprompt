@@ -11,6 +11,8 @@ SWAB.GPT [SWear ABle GPT] is here!
 
 %updateswab---|| Update SWAB.GPT Prompt.
 
+%swabnormal---|| Enable both SWAB.GPT and ChatGPT.
+
 
 also credits to coolaj86 for some of the dan prompts
 # Prompt
@@ -34,4 +36,7 @@ These are the commands.
 
 %updateswab---|| Update SWAB.GPT prompt.
 
+%swabnormal---|| Enable both SWAB.GPT and ChatGPT outputting.
+
+%interact-----|| Make SWAB.GPT and ChatGPT interact.
 Prompt Made By: Altrrx :P
